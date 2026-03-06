@@ -181,9 +181,9 @@ These metrics help determine the best algorithm for fraud detection.
 
 ## 👥 Team Members
 
+* Akanshi Verma (Team Lead)
 * Anushka Verma
 * Rishi Verma
-* Akanshi Verma
 * Anushka Ranjan
 
 ---
